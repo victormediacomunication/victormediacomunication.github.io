@@ -58,7 +58,7 @@ if($id1 == " "){
     print ")";
     echo "<br>";
     sleep(3);
-    header("Location: 100335132800");
+    header("Location: /CHT/100335132800");
     die();
     }
 else{
@@ -94,7 +94,7 @@ if($id1 == "100920193819"){
     print ")";
     echo "<br>";
     sleep(3);
-    header("Location: 100920193819");
+    header("Location: /CHT/100920193819");
     die();
     }
 else{
@@ -131,7 +131,7 @@ if($id1 == "104454455631"){
     print ")";
     echo "<br>";
     sleep(3);
-    header("Location: 104454455631");
+    header("Location: /CHT/104454455631");
     die();
     }
 else{
@@ -167,7 +167,7 @@ if($id1 == "120920133114"){
     print ")";
     echo "<br>";
     sleep(3);
-    header("Location: 120920133114");
+    header("Location: /CHT/120920133114");
     die();
     }
 else{
@@ -203,7 +203,7 @@ if($id1 == "131728183666"){
     print ")";
     echo "<br>";
     sleep(3);
-    header("Location: 131728183666");
+    header("Location: /CHT/131728183666");
     die();
     }
 else{
@@ -239,7 +239,7 @@ if($id1 == "144479883772"){
     print ")";
     echo "<br>";
     sleep(3);
-    header("Location: 144479883772");
+    header("Location: /CHT/144479883772");
     die();
     }
 else{
@@ -247,3 +247,4 @@ else{
     }
 
 ?>
+</html>
